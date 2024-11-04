@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="LA5_Revalde">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LA5_Revalde/out/production/LA5_Revalde/SimpleCalculator.zip!/" />
+      <root url="jar://$PROJECT_DIR$/LA5_Revalde/out/production/LA5_Revalde/LeapYearChecker.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
